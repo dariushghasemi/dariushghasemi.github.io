@@ -49,11 +49,18 @@ I'm a Statistical Geneticist investigating the characteristics of genetic determ
 ---
 
 # Publication
-* Systematic mediation and interaction analyses in an individual population study help characterize kidney function genetic loci_. D Ghasemi et al. _Medrxiv_ (April 2023). [DOI]()
-* Structural equation modeling (SEM) of kidney function markers and longitudinal CVD risk assessment_. R Fujii et al. _PLOS ONE_ (April 2023) [DOI]()
-* Comparison of glomerular filtration rate estimating formulas among Japanese adults without kidney disease. R Fujii et al. _Clinical Biochemistry_, Volume 111, January 2023, 54-59. [DOI]()
-* Genome-wide association study reveals loci with sex-specific effects on plasma bile acids. A Landini et al. _Medrxiv_ (December 2022). [DOI]()
-* Can individual studies add value to characterize loci from genome-wide association metaanalyses? A case study. D Ghasemi et al. _Conference Proceedings_, International Genetic Epidemiology Society, July 2022. [DOI]()
+* Systematic mediation and interaction analyses in an individual population study help characterize kidney function genetic loci_. D Ghasemi et al. _Medrxiv_ (April 2023). [DOI:10.1371/journal.pone.0280600](10.1371/journal.pone.0280600)
+* Structural equation modeling (SEM) of kidney function markers and longitudinal CVD risk assessment_. R Fujii et al. _PLOS ONE_ (April 2023) [DOI:10.1371/journal.pone.0280600](10.1371/journal.pone.0280600)
+* Comparison of glomerular filtration rate estimating formulas among Japanese adults without kidney disease. R Fujii et al. _Clinical Biochemistry_, Volume 111, January 2023, 54-59. [DOI:10.1016/j.clinbiochem.2022.10.011](10.1016/j.clinbiochem.2022.10.011)
+* Genome-wide association study reveals loci with sex-specific effects on plasma bile acids. A Landini et al. _Medrxiv_ (December 2022). [DOI:10.1101/2022.12.16.22283452v1](10.1101/2022.12.16.22283452v1)
+* Can individual studies add value to characterize loci from genome-wide association metaanalyses? A case study. D Ghasemi et al. _Conference Proceedings_, International Genetic Epidemiology Society, July 2022. [DOI:10.1002/gepi.22503](10.1002/gepi.22503)
+* MO383: Structural Equation Modelling to Improve Kidney Function Assessment in The General Population. R Fujii et al. _Nephrology Dialysis Transplantation_, Vol. 37, Issue Suppl_3, May 2022, gfac069.016. [DOI:10.1093/ndt/gfac069.016](10.1093/ndt/gfac069.016)
+* Depression in the Iranian Elderly: A Systematic Review and Meta-Analysis. H Jafari et al. _Journal of Aging Research_, vol. 2021, Article ID 9305624, 9 pages, 2021. [DOI:10.1155/2021/9305624](10.1155/2021/9305624)
+* Trend of changes in blood sugar and glycated hemoglobin in electronic health records, Sari, Iran 2012-2018. D Ghasemi et al. _Journal of Mazandaran University of Medical Sciences_. 30(190), September 2020, 109-118. [scopus.com/inward/record.url?eid=2-s2.0-85094968432&partnerID=MN8TOARS](http://www.scopus.com/inward/record.url?eid=2-s2.0-85094968432&partnerID=MN8TOARS)
+* Knowledge and attitude toward genetic diseases and genetic tests among pre-marriage individuals: A cross-sectional study in northern Iran. B Hashemi-Soteh et al. _International Journal of Reproductive BioMedicine (IJRM)_, 17(8), 2019, 543–550. [DOI:10.18502/ijrm.v17i8.4819](10.18502/ijrm.v17i8.4819)
+
+<br/>
+
 ---
 
 # Interests
