@@ -1,22 +1,23 @@
 ---
 layout: post
-title:  "Reservation Bot"
-info: "Restaurant Reservation Bot"
-tech: "Python, Slack API"
-type: B Company
+title:  "Summer School in Bayesian Causal Inference"
+info: "Business Travel for Training"
+tech: "R, Rstudio"
+type: University of Florence
 ---
 
 ## Reservation Bot 
-This is just a project that suddenly reminds me.  
-Of course I did not actually work, I wrote something plausible.  
-To be honest, the project here is a virtual project.  
-It's all fake.  
-
+📚 Just Completed a Fascinating 5-Day Course on Bayesian Causal Inference at the University of Florence! 📚
+🔹 Here are some highlights from the lectures:
+1.	Randomized experiments, observational studies with ignorable assignments, and #causalinference with multiple treatments.
+2.	Explored heterogenous treatment effects and application of propensity score, BART, GP, #Bayesian casual forests for estimating causal effect size.
+3.	Sensitivity analysis to assess causal effect estimates under varying assumptions.
+4.	Learned about Instrumental Variables and Principal Stratification for handling confounding and noncompliance.
+5.	Introduced Bayesian Time Series Models and prior elicitation techniques.
 
 ## Tech
-I usually create a Bot with Slack and build it using the slack API.  
-nd I used my favorite Python.  
-
+🔹 The excersises were based on R. Course materials available on the instructor's website at:
+https://www2.stat.duke.edu/~fl35/CausalInferenceClass.html
 
 ## Duration
-I'll make it in a day.  
+🔹 12-16 June 2023 | University of Florence, Florence, Italy 
