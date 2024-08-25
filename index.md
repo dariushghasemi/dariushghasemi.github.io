@@ -3,13 +3,18 @@ layout: about
 ---
 
 # About Me
-I'm a Statistical Geneticist investigating the characteristics of genetic determinants for kidney function and Chronic Kidney Diseases. I work on the data derived from The Cooperative Health Research in South Tyrol (CHRIS study) under supervision of Dr. Cristian Pattaro at Eurac Research Institute for Biomedicine in Bolzano, Italy. 
+I'm a Statistical Geneticist discovering proteins associated with complex diseases in the European cohorts. For the last 3.5 years, I have been investigating the characteristics of genetic determinants for kidney function and Chronic Kidney Diseases. I worked on the data derived from The Cooperative Health Research in South Tyrol (CHRIS study) under supervision of Dr. Cristian Pattaro at Eurac Research Institute for Biomedicine in Bolzano, Italy. 
 
 <br/>
 
 ---
 
 # Career
+* **Statistical Geneticist** (2024/02 ~ *Current*)
+  - [_Human Technopole_](https://humantechnopole.it/en/people/dariush-ghasemi-semeskandeh/)
+    * GWAS, Meta-Analysis GWAS, Multi-Ancestry association study.
+    * Quality control checking of participated cohorts in Round 5.
+
 * **Visiting Researcher** (2023/02 ~ 2023/03)
   * _AstraZeneca R&D Gothenburg_
     * Trainings on AZ 5R drug development pipeline by Translational Biology Team.
@@ -20,8 +25,8 @@ I'm a Statistical Geneticist investigating the characteristics of genetic determ
     * GWAS, Meta-Analysis GWAS, Multi-Ancestry association study.
     * Quality control checking of participated cohorts in Round 5.
 
-* **Researcher** ([Marie-Curie PhD fellow](https://www.trainckdis.eu/consortium/fellows/dariush-ghasemi))** (2021/02 ~ *Current*)
-  * [_Eurac Research_](https://www.eurac.edu/en/people/dariush-ghasemi-semeskandeh)
+* **Researcher** ([Marie-Curie PhD fellow](https://www.trainckdis.eu/consortium/fellows/dariush-ghasemi))** (2021/02 ~ 2024/02)
+  * [_Eurac Research_](https://www.eurac.edu/en/)
     * The PhD project is part of Multidisciplinary Training in Chronic Kidney Disease: from genetic modifiers to drug discovery (_TrainCKDis_) consortium funded by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 860977 
     * Performing Genome/Exome-Wide Association Study (G/EWAS) on kidney biomarkers and mediation-based pathway analysis:
       1. Exploring kidney function-associated variants in enriched CHRIS study cohort using mediation and interaction analyses.
