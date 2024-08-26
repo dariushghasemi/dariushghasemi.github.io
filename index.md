@@ -25,7 +25,7 @@ I'm a Statistical Geneticist discovering proteins associated with complex diseas
     * GWAS, Meta-Analysis GWAS, Multi-Ancestry association study.
     * Quality control checking of participated cohorts in Round 5.
 
-* **Researcher** ([Marie-Curie PhD fellow](https://www.trainckdis.eu/consortium/fellows/dariush-ghasemi))** (2021/02 ~ 2024/02)
+* **Researcher** ([Marie-Curie PhD fellow](https://www.trainckdis.eu/consortium/fellows/dariush-ghasemi)) (2021/02 ~ 2024/02)
   * [_Eurac Research_](https://www.eurac.edu/en/)
     * The PhD project is part of Multidisciplinary Training in Chronic Kidney Disease: from genetic modifiers to drug discovery (_TrainCKDis_) consortium funded by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 860977 
     * Performing Genome/Exome-Wide Association Study (G/EWAS) on kidney biomarkers and mediation-based pathway analysis:
