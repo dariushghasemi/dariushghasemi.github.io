@@ -54,7 +54,7 @@ I'm a Statistical Geneticist discovering proteins associated with complex diseas
 ---
 
 # Publication
-* Systematic mediation and interaction analyses in an individual population study help characterize kidney function genetic loci_. D Ghasemi et al. _Medrxiv_ (April 2023). [DOI:10.1101/2023.04.15.23288540v1](https://www.medrxiv.org/content/10.1101/2023.04.15.23288540v1)
+* Systematic mediation and interaction analyses of kidney function genetic loci in a general population study. D Ghasemi et al. _Medrxiv_ (August 2024). [DOI:10.1101/2023.04.15.23288540](https://www.medrxiv.org/content/10.1101/2023.04.15.23288540v2)
 * Structural equation modeling (SEM) of kidney function markers and longitudinal CVD risk assessment_. R Fujii et al. _PLOS ONE_ (April 2023) [DOI:10.1371/journal.pone.0280600](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280600)
 * Comparison of glomerular filtration rate estimating formulas among Japanese adults without kidney disease. R Fujii et al. _Clinical Biochemistry_, Volume 111, January 2023, 54-59. [DOI:10.1016/j.clinbiochem.2022.10.011](https://www.sciencedirect.com/science/article/pii/S0009912022002351?via%3Dihub)
 * Genome-wide association study reveals loci with sex-specific effects on plasma bile acids. A Landini et al. _Medrxiv_ (December 2022). [DOI:10.1101/2022.12.16.22283452v1](https://www.medrxiv.org/content/10.1101/2022.12.16.22283452v1)
